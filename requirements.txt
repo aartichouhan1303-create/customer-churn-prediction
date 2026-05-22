@@ -1,4 +1,5 @@
-app.py
-logistic.pkl
-customer_churn_prediction_dataset.csv
-requirements.txt
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+joblib==1.4.2
